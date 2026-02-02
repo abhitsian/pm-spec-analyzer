@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+.spec_analyzer.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Old/temp files
+launcher.py
+pages/
+app.py
+app_interview_mode.py
+build_*.sh
+*.dmg
+*.app
+*.pkg
+/tmp/
+view_prompts.sh
+
+# Documentation (keep only essential ones)
+DEBUGGING_ADDED.md
+INTERVIEW_MODE_ADDED.md
+VERSION_2.0_RELEASE.md
+FILE_UPLOAD_GUIDE.md
+QUICK_START.md
+PROMPTS_REFERENCE.md
+INSTALL.md
+TROUBLESHOOTING.md
+LINKEDIN_POST.md
